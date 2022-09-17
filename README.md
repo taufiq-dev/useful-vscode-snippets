@@ -1,5 +1,5 @@
 # Useful VSCode Snippets
-1. [React Snippets](https://github.com/taufiq-dev/useful-vscode-snippets/edit/main/README.md#react-snippets)
+1. [React Snippets](https://github.com/taufiq-dev/useful-vscode-snippets#react-snippets)
 ## React Snippets
 ### React arrow function component with export
 ```json
