@@ -2,6 +2,8 @@
 1. [React Snippets](https://github.com/taufiq-dev/useful-vscode-snippets#react-snippets)
 ## React Snippets
 **React arrow function component with export**
+<br />
+Removes hypens/dashes and capitalizes the words.
 ```json
 {
   "React arrow function component with export": {
