@@ -1,7 +1,7 @@
 # Useful VSCode Snippets
 1. [React Snippets](https://github.com/taufiq-dev/useful-vscode-snippets#react-snippets)
 ## React Snippets
-### React arrow function component with export
+**React arrow function component with export**
 ```json
 {
   "React arrow function component with export": {
@@ -17,4 +17,11 @@
     "description": "Create a React arrow function component with export"
   }
 }
+```
+**Output**
+```javascript
+// my-filename.js
+const MyFilename = () => {
+  return <></>;
+};
 ```
