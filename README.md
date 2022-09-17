@@ -3,7 +3,7 @@
 ## React Snippets
 **React arrow function component with export**
 <br />
-Removes hypens/dashes and capitalizes the words.
+Remove hypens/dashes and capitalize the words.
 ```json
 {
   "React arrow function component with export": {
