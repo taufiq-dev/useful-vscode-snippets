@@ -26,4 +26,6 @@ Remove hypens/dashes and capitalize the words.
 const MyFilename = () => {
   return <></>;
 };
+
+export default MyFilename;
 ```
